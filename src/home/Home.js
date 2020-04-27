@@ -7,6 +7,7 @@ const Home = ()=>{
     return(
         <div>
               <Link to="/createtodo">Create</Link>
+              <br/>
               <Link to="/todolist">List</Link>
         </div>
     )
